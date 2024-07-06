@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://shubham-roy.com/</loc>
+	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://shubham-roy.com/about/</loc>
+	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>https://shubham-roy.com/services/</loc>
+	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://shubham-roy.com/contact/</loc>
+	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
+	<priority>0.9</priority>
+</url>
+</urlset>
