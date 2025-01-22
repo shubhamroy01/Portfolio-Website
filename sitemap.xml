@@ -1,24 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
+
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://shubham-roy.com/</loc>
-	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
+	<lastmod>2025-01-22T09:32:22+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://shubham-roy.com/about.html/</loc>
-	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
-	<priority>0.9</priority>
+	<loc>https://shubham-roy.com/index.html</loc>
+	<lastmod>2025-01-22T09:32:22+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://shubham-roy.com/services.html/</loc>
-	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
-	<priority>0.5</priority>
+	<loc>https://shubham-roy.com/about.html</loc>
+	<lastmod>2025-01-22T09:32:22+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://shubham-roy.com/contact.html/</loc>
-	<lastmod>2024-07-06T21:15:00+01:00</lastmod>
-	<priority>0.9</priority>
+	<loc>https://shubham-roy.com/services.html</loc>
+	<lastmod>2025-01-22T09:32:22+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://shubham-roy.com/contact.html</loc>
+	<lastmod>2025-01-22T09:32:22+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 </urlset>
